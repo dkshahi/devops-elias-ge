@@ -5,3 +5,6 @@ this is changes for cherry pick
 git stash
 
 How the trianing is going on 
+
+agian how the project is going on and will you able to complete on time
+
