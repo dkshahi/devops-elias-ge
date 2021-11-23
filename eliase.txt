@@ -1,5 +1,3 @@
 THis is for checrry pick
 
-this is changes for cherry pick
-
-git stash
+agian how the project is going on and will you able to complete on time
